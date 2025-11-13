@@ -70,7 +70,11 @@ class Persona {<br>
 <p></p>
 
 <h3>HERENCIA</h3>
-<p></p>
+<p>La herencia en JavaScript permite que una clase o un objeto herede propiedades <br>
+ y métodos de otro, promoviendo la reutilización de código mediante la cadena de  <br>
+ prototipos o la sintaxis moderna de clases con extends y super, fundamental para  <br>
+ la Programación Orientada a Objetos (POO) en JS, creando relaciones padre-hijo donde  <br>
+ los hijos pueden extender o sobrescribir funcionalidades de los padres. </p>
 
  <h3>CRUD</h3>
  <p></p>
