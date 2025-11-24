@@ -61,9 +61,6 @@ class Persona {<br>
 * Java es orientado a objetos.<br>
 * Las clases definen estructuras y los objetos son instancias<br> </p>
 
-
- 
-
 <p></p>
 
 <h3>POO (ATRIBUTOS Y METODOS )</h3>
