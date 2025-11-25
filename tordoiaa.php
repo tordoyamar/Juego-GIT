@@ -22,6 +22,11 @@
             lo utilizan. En general, Java sirve para desarrollar programas que sean estables <br>
             y fáciles de mantener, y por eso es tan conocido.
 </P>
+<h2>SINTAXIS DE JAVA</h2>
+<P>
+    La sintaxis de Java es la forma en la que tenemos <br>
+     que escribir el código para que el programa funcione.
+</P>
     </center>
 </body>
 </html>
