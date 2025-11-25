@@ -59,10 +59,10 @@ class Persona {<br>
 Que una clase nos ayuda a describir a un nuevo grupo de objetos que comparten características dentro de un programa. Para poder definir estas clases se usan dos tipos de elementos o miembros de elementos.</p>
 
 <h3>HERENCIA</h3>
-<p>La herencia en JavaScript permite que una clase o un objeto herede propiedades <br>
- y métodos de otro, promoviendo la reutilización de código mediante la cadena de  <br>
- prototipos o la sintaxis moderna de clases con extends y super, fundamental para  <br>
- la Programación Orientada a Objetos (POO) en JS, creando relaciones padre-hijo donde  <br>
+<p>La herencia en JavaScript permite que una clase o un objeto herede propiedades 
+ y métodos de otro, promoviendo la reutilización de código mediante la cadena de 
+ prototipos o la sintaxis moderna de clases con extends y super, fundamental para  
+ la Programación Orientada a Objetos (POO) en JS, creando relaciones padre-hijo donde  
  los hijos pueden extender o sobrescribir funcionalidades de los padres. </p>
 
 </body>
