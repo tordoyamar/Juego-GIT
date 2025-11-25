@@ -7,13 +7,14 @@
 </head>
 <body>
     <h1>CRUD</h1>
-    <p>crud son los acronimos de :
-        C:create
-        R: read
-        U: update
-        D: delete
+    <p>-Crud son los acronimos de :
+        C: create (crear) -> Insertar nuevos datos.<br>
+        R: read (leer) -> Consultar o mostrar datos.<br>
+        U: update (actualizar) -> Modificar datos existentes.<br>
+        D: delete (eliminar) -> Borrar datos.<br>
+    - CRUD representa las operaciones básicas que puedes realizar sobre una base de datos.
     </p>
-    <p>consta de 7 archivos</p>
+    <p>- Consta de 7 archivos</p>
     <h2>COMO EMPIEZA</h2>
     <P>Todo inica creando una base de datos </P>
     <p>luego se crea un formulario comun y corriente </p>
@@ -22,6 +23,6 @@
     <p>luego el READ</p>
     <p>luego el UPDATE Q SON DOS ARCHIVOS </p>
     <p> finalmente se crea el DELETE</p>
-    <p> luego entras al XAM y prndes el APACHE entras a ADMIN  y entras a http://localhost/dashboard/ pones el nombre  de tu carpeta y entras a ver s da o no</p>
+    <p> luego entras al XAM y prendes el APACHE entras a ADMIN  y entras a http://localhost/dashboard/ pones el nombre  de tu carpeta y entras a ver si da o no</p>
 </body>
 </html>
