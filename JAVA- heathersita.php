@@ -14,20 +14,12 @@ background:beige;
 </style>
 
 <body>
-
-
-
+ 
     <center>   <big> <h1> JAVA </h1><big> </center>
  
 <h2>⭐Sintaxis de Java</h2>
 <p> java usa una estructura donde todo va dentro de clases, y el programa inicia en el método main.
 
-<<<<<<< HEAD
- <strong><ul><li>Estructura mínima de un programa</li> </ul>  </strong>
-public class Main {
-    public static void main(String[] args) {
-        System.out.println("Hola");
-=======
 <h3>  caracteristicas - JAVA</h3> 
  Todo programa tiene una clase y un método main.<br>
  Las llaves {} delimitan bloques de código.<br>
@@ -63,7 +55,6 @@ class Persona {<br>
     String nombre;<br>
     void saludar() {<br>
         System.out.println("Hola " + nombre);<br>
->>>>>>> b552b3f865a59840eed23ae14a7ffd330fc9e2ca
     }
 }
 
