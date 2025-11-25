@@ -8,6 +8,7 @@
 <body>
 
     <center>   <big> <h1> JAVA </h1><big> </center>
+    <P>JAVA es un lenguaje de proramacion que hace que las paginas web sean mas dinamicas </P>
     <h2>SINTAXIS DE JAVA</h2>
     <P>public class Hola {
     public static void main(String[] args) {

@@ -22,10 +22,48 @@ background:beige;
 <h2>⭐Sintaxis de Java</h2>
 <p> java usa una estructura donde todo va dentro de clases, y el programa inicia en el método main.
 
+<<<<<<< HEAD
  <strong><ul><li>Estructura mínima de un programa</li> </ul>  </strong>
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hola");
+=======
+<h3>  caracteristicas - JAVA</h3> 
+ Todo programa tiene una clase y un método main.<br>
+ Las llaves {} delimitan bloques de código.<br>
+ Las líneas terminan con ;.<br>
+ 
+<h3>  Tipos de datos</h3>
+Tipo	Descripción	Ejemplo<br>
+int	Entero	int edad = 20;<br>
+double	Decimal	double precio = 10.5;<br>
+char	Carácter	char letra = 'A';<br>
+boolean	Verdadero/Falso	boolean activo = true;<br>
+String	Texto	String nombre = "Ana";<br>
+
+<h3>  Estructuras de control </h3>
+if (x > 0) { ... } else { ... }<br>
+for (int i = 0; i < 5; i++) { ... }<br>
+while (condición) { ... }<br>
+
+
+* Controlan el flujo del programa.<br>
+
+<h3> Métodos</h3>
+void saludar() {<br>
+    System.out.println("Hola!");<br>
+}<br>
+
+* Bloques de código reutilizables.<br>
+* Se pueden recibir parámetros y devolver valores.<br>
+ 
+<h3>  Clases y Objetos</h3>
+
+class Persona {<br>
+    String nombre;<br>
+    void saludar() {<br>
+        System.out.println("Hola " + nombre);<br>
+>>>>>>> b552b3f865a59840eed23ae14a7ffd330fc9e2ca
     }
 }
 
@@ -104,32 +142,9 @@ do {<br>
     System.out.println(i);<br>
     i++;<br>
 }<br> while (i <= 5); 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
 </p>
-
-
-
-
-
-
+ 
 <h2>⭐POO (Atributos y Métodos)</h2>
 <p>
 <strong> <ul><li>Atributos</li> </ul></strong>
