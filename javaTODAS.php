@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>CRUD</h1>
-    <p>crud son los acronimos de :
+    <p>es un tipo específico de aplicación de software que consta de cuatro operaciones básicas; crud son los acronimos d :
         C:create
         R: read
         U: update
@@ -15,7 +15,8 @@
     </p>
     <p>consta de 7 archivos</p>
     <h2>COMO EMPIEZA</h2>
-    <P>Todo inica creando una base de datos </P>
+    <p>inicia encendiendo el XAM Y PRENDIENDO EL MY SQL</p>
+    <P>luego se va creando una base de datos </P>
     <p>luego se crea un formulario comun y corriente </p>
     <p> luego se debe conectar con la base de datos con: USERNAME, PASSWORD, NAMEBD, SERVERNAME</p>
     <p> luego se crea CREATE con un formulario</p>
