@@ -39,15 +39,18 @@
 <strong><h2>UPDATE:</h2></strong>
 <p>sabemos que esas siglas significan, actualizar , funcionan basdicamente con dos archivos, uno en el que creas un formulario nuevo <br>
 en el que esten los mismos datos que quieres modificar, los cuales llenaste en el primer formulario del create, <br> 
-estos datos aparecen gracias a nuestro PK, la cual se debe poner como condicion en nuestra conulttta sql. <br>
+estos datos aparecen gracias a nuestro PK y al uso de un SELECT sql, la cual se debe poner como condicion en nuestra conulttta sql. <br>
 tambien el el formulario que creamos es necesario poner las variables de los nombres que le asignamos a nuestros datos <br>
 en el promer formulario. <br><br>
 seguimos con el documento numero dos, en este se hace un procedimiento de guardado, remplazando los antiguos, datos <br> 
 por unos nuevos, mediante la consulta sql  UPDATE, finalmente tenemos nuestros datos completamente actyualizados <br>
 listos para ser tomados en cuenta.  </p>
-
-
-
+<strong>EJEMPLO UPDATE</strong>
+<p>UPDATE (nombre de la tabla) SET nombre = 'nv dato', edad = nv 'nv dato' WHERE  id = 3;</p>
+<strong>EJEMPLO FORMULARIO UPDATE</strong>
+<p> <label>Nombre:</label> <br>
+    <input type="text" name="nombre" value="<?= $nombre ?>" required>
+</p>
 </p>
 </body>
 </html>
