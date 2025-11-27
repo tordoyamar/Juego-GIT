@@ -35,7 +35,9 @@
   <h3>Paradigma de POO</h3>
    <p>
     El Paradigma de POO o sea Programacion Orientada a Objetos <br>
-    es una forma de programar donde todo se organiza en"Objetos".
+    es una forma de programar donde todo se organiza en"Objetos". <br>
+    Cada objeto tiene sus propias caracteristicas como los atributos <br>
+    y cosas q se puede hacer cm los métodos.
    </p>
 
 
