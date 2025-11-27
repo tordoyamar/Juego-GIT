@@ -25,7 +25,12 @@
 <h2>SINTAXIS DE JAVA</h2>
 <P>
     La sintaxis de Java es la forma en la que tenemos <br>
-     que escribir el código para que el programa funcione.
+     que escribir el código para que el programa funcione. <br>
+     Todo en java va organizado en clases y dentro de ellas <br>
+     se escriben los metodos. <br>
+     Tambien usa llaves{} para abrir y cerrar bloques , y  <br>
+     cada linea importante termina con punto y coma;.Es <br>
+     un lenguaje extremadamente ordenado.
 </P>
     </center>
 </body>
