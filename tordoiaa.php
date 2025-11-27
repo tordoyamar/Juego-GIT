@@ -32,6 +32,15 @@
      cada linea importante termina con punto y coma;.Es <br>
      un lenguaje extremadamente ordenado.
 </P>
-    </center>
+  <h3>Paradigma de POO</h3>
+   <p>
+    El Paradigma de POO o sea Programacion Orientada a Objetos <br>
+    es una forma de programar donde todo se organiza en"Objetos".
+   </p>
+
+
+
+
+</center>
 </body>
 </html>
