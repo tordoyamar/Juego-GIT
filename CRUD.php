@@ -24,5 +24,30 @@
     <p>luego el UPDATE Q SON DOS ARCHIVOS </p>
     <p> finalmente se crea el DELETE</p>
     <p> luego entras al XAM y prendes el APACHE entras a ADMIN  y entras a http://localhost/dashboard/ pones el nombre  de tu carpeta y entras a ver si da o no</p>
+    <p>
+         <h3>MÉTODO POST Y GET </h3>
+    <P>GET:<br>
+     -Envía los datos en la URL.<br>
+     -Es visible y limitado en tamaño.<br>
+     -Se usa para consultas o búsquedas, no para enviar inforación sensible.
+    </P>
+    <p>POST:<br>
+        -Envía los datos en el cuerpo de la solicitud HTTP, no visible en la URL. <br>
+        -No tiene limite de tamaño en la práctica.<br>
+        -Se  usa para guardar, actualizar o eliminar datos.
+
+<strong><h2>UPDATE:</h2></strong>
+<p>sabemos que esas siglas significan, actualizar , funcionan basdicamente con dos archivos, uno en el que creas un formulario nuevo <br>
+en el que esten los mismos datos que quieres modificar, los cuales llenaste en el primer formulario del create, <br> 
+estos datos aparecen gracias a nuestro PK, la cual se debe poner como condicion en nuestra conulttta sql. <br>
+tambien el el formulario que creamos es necesario poner las variables de los nombres que le asignamos a nuestros datos <br>
+en el promer formulario. <br><br>
+seguimos con el documento numero dos, en este se hace un procedimiento de guardado, remplazando los antiguos, datos <br> 
+por unos nuevos, mediante la consulta sql  UPDATE, finalmente tenemos nuestros datos completamente actyualizados <br>
+listos para ser tomados en cuenta.  </p>
+
+
+
+</p>
 </body>
 </html>
