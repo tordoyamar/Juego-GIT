@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>CRUD</h1>
-    <p>-Crud son los acronimos de :
+    <p>-Crud son los acronimos de:
         C: create (crear) -> Insertar nuevos datos.<br>
         R: read (leer) -> Consultar o mostrar datos.<br>
         U: update (actualizar) -> Modificar datos existentes.<br>
@@ -49,7 +49,7 @@ por unos nuevos, mediante la consulta sql  UPDATE, finalmente tenemos nuestros d
 listos para ser tomados en cuenta.  </p>
 <strong>EJEMPLO UPDATE</strong>
 <p>UPDATE (nombre de la tabla) SET nombre = 'nv dato', edad = nv 'nv dato' WHERE  id = 3;</p>
-<strong>EJEMPLO FORMULARIO UPDATE</strong>
+<strong>EJEMPLO FORMULARIO UPDATEEE</strong>
 <p> <label>Nombre:</label> <br>
     <input type="text" name="nombre" value="<?= $nombre ?>" required>
 </p>
