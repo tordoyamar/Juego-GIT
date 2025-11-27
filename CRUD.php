@@ -35,7 +35,27 @@
         -Envía los datos en el cuerpo de la solicitud HTTP, no visible en la URL. <br>
         -No tiene limite de tamaño en la práctica.<br>
         -Se  usa para guardar, actualizar o eliminar datos.
+<strong><h2>READ:</h2></strong>
 
+<p> El READ sirve para <strong>mostrar</strong> los <br>
+datos que ya están guardados en nuestra base de datos. Para poder <br>
+hacer esto, necesitamos usar una consulta SQL tipo <strong>SELECT</strong>,<br>
+ que es la que nos permite traer toda la información o solo una parte,<br>
+  según lo que necesitemos. <br><br> En el archivo donde hacemos el READ,<br>
+   normalmente conectamos la base de datos y luego hacemos la consulta. Si <br>
+    queremos ver todos los registros, usamos un SELECT general; si queremos <br>
+    ver solo uno, usamos una condición con el PK <br>
+     Después de hacer el SELECT,<br>
+      mostramos los datos en una tabla, en tarjetas o como queramos, usando las <br>
+       variables que obtenemos del resultado del SELECT. El READ solo sirve para <br>
+        “leer” y mostrar, no modifica nada. </p>
+
+<strong>EJEMPLO READ (SQL)</strong>
+<p> SELECT * FROM Automoviles; </p>
+
+<strong>EJEMPLO READ MOSTRANDO DATOS</strong>
+<br>
+<p> <table border="1"> <tr> <th>Código</th> <th>Marca</th> <th>Modelo</th> <th>Año de Fabricación</th> <th>Acciones</th> </tr>
 <strong><h2>UPDATE:</h2></strong>
 <p>sabemos que esas siglas significan, actualizar , funcionan basdicamente con dos archivos, uno en el que creas un formulario nuevo <br>
 en el que esten los mismos datos que quieres modificar, los cuales llenaste en el primer formulario del create, <br> 

@@ -40,9 +40,6 @@
     y cosas q se puede hacer cm los métodos.
    </p>
 
-
-
-
 </center>
 </body>
 </html>
